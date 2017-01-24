@@ -1,14 +1,14 @@
 {
-  "name": "bitcoin-util",
+  "name": "dash-util",
   "version": "2.0.3",
-  "description": "Utility functions for Bitcoin hashes and targets",
+  "description": "Utility functions for Dash hashes and targets",
   "main": "index.js",
   "scripts": {
     "test": "standard && nyc tape test/*.js | faucet && nyc report",
     "test-browser": "./test/browser.sh"
   },
   "keywords": [
-    "bitcoin",
+    "dash",
     "webcoin",
     "util",
     "utils",
@@ -33,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mappum/bitcoin-util.git"
+    "url": "git+https://github.com/snogcel/dash-util.git"
   },
   "bugs": {
-    "url": "https://github.com/mappum/bitcoin-util/issues"
+    "url": "https://github.com/snogcel/dash-util/issues"
   },
-  "homepage": "https://github.com/mappum/bitcoin-util#readme"
+  "homepage": "https://github.com/snogcel/dash-util#readme"
 }
