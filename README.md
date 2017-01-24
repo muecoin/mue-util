@@ -1,20 +1,20 @@
-# bitcoin-util
+# dash-util
 
-[![npm version](https://img.shields.io/npm/v/bitcoin-util.svg)](https://www.npmjs.com/package/bitcoin-util)
-[![Build Status](https://travis-ci.org/mappum/bitcoin-util.svg?branch=master)](https://travis-ci.org/mappum/bitcoin-util)
-[![Dependency Status](https://david-dm.org/mappum/bitcoin-util.svg)](https://david-dm.org/mappum/bitcoin-util)
+[![npm version](https://img.shields.io/npm/v/dash-util.svg)](https://www.npmjs.com/package/dash-util)
+[![Build Status](https://travis-ci.org/dashpay/dash-util.svg?branch=master)](https://travis-ci.org/dashpay/dash-util)
+[![Dependency Status](https://david-dm.org/dashpay/dash-util.svg)](https://david-dm.org/dashpay/dash-util)
 
-**Utility functions for Bitcoin hashes and targets**
+**Utility functions for Dash hashes and targets**
 
 ## Usage
 
-`npm install bitcoin-util`
+`npm install dash-util`
 
 ### Methods
 
 #### `toHash(hex)`
 
-Takes a hex string that contains a Bitcoin hash as input, and returns a Bitcoin-protocol-friendly little-endian Buffer. Throws an error if the hex string is not of length 64 (representing a 256-bit hash).
+Takes a hex string that contains a Dash hash as input, and returns a Dash-protocol-friendly little-endian Buffer. Throws an error if the hex string is not of length 64 (representing a 256-bit hash).
 
 #### `compressTarget(target)`
 
