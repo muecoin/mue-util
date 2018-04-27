@@ -1,14 +1,14 @@
 # dash-util
 
-[![npm version](https://img.shields.io/npm/v/dash-util.svg)](https://www.npmjs.com/package/dash-util)
-[![Build Status](https://travis-ci.org/dashpay/dash-util.svg?branch=master)](https://travis-ci.org/dashpay/dash-util)
-[![Dependency Status](https://david-dm.org/dashpay/dash-util.svg)](https://david-dm.org/dashpay/dash-util)
+[![npm version](https://img.shields.io/npm/v/dash-util.svg)](https://www.npmjs.com/package/@dashevo/dash-util)
+[![Build Status](https://travis-ci.org/dashpay/dash-util.svg?branch=master)](https://travis-ci.org/dashevo/dash-util)
+[![Dependency Status](https://david-dm.org/dashpay/dash-util.svg)](https://david-dm.org/dashevo/dash-util)
 
 **Utility functions for Dash hashes and targets**
 
 ## Usage
 
-`npm install dash-util`
+`npm install @dashevo/dash-util`
 
 ### Methods
 

@@ -1,5 +1,5 @@
 {
-  "name": "dash-util",
+  "name": "@dashevo/dash-util",
   "version": "2.0.3",
   "description": "Utility functions for Dash hashes and targets",
   "main": "index.js",
@@ -15,7 +15,8 @@
     "hash",
     "hashes",
     "target",
-    "blockchain"
+    "blockchain",
+    "dashevo"
   ],
   "author": "Matt Bell <mappum@gmail.com>",
   "license": "MIT",
@@ -33,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snogcel/dash-util.git"
+    "url": "git+https://github.com/dashevo/dash-util.git"
   },
   "bugs": {
-    "url": "https://github.com/snogcel/dash-util/issues"
+    "url": "https://github.com/dashevo/dash-util/issues"
   },
-  "homepage": "https://github.com/snogcel/dash-util#readme"
+  "homepage": "https://github.com/dashevo/dash-util#readme"
 }
