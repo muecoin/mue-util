@@ -1,14 +1,14 @@
 {
-  "name": "@dashevo/dash-util",
+  "name": "mue-util",
   "version": "2.0.3",
-  "description": "Utility functions for Dash hashes and targets",
+  "description": "Utility functions for MonetaryUnit hashes and targets",
   "main": "index.js",
   "scripts": {
     "test": "standard && nyc tape test/*.js | faucet && nyc report",
     "test-browser": "./test/browser.sh"
   },
   "keywords": [
-    "dash",
+    "monetaryunit",
     "webcoin",
     "util",
     "utils",
@@ -16,7 +16,7 @@
     "hashes",
     "target",
     "blockchain",
-    "dashevo"
+    "muecoin"
   ],
   "author": "Matt Bell <mappum@gmail.com>",
   "license": "MIT",
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dashevo/dash-util.git"
+    "url": "git+https://github.com/muecoin/mue-util.git"
   },
   "bugs": {
-    "url": "https://github.com/dashevo/dash-util/issues"
+    "url": "https://github.com/muecoin/mue-util/issues"
   },
-  "homepage": "https://github.com/dashevo/dash-util#readme"
+  "homepage": "https://github.com/muecoin/mue-util#readme"
 }
